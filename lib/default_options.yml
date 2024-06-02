@@ -1,0 +1,1236 @@
+---
+AF:
+  name: Afghanistan
+  dial_code: "+93"
+  currency: AFN
+  capital: Kabul
+AL:
+  name: Albania
+  dial_code: "+355"
+  currency: ALL
+  capital: Tirana
+DZ:
+  name: Algeria
+  dial_code: "+213"
+  currency: DZD
+  capital: Algiers
+AS:
+  name: AmericanSamoa
+  dial_code: "+1684"
+  currency: USD
+  capital: Pago Pago
+AD:
+  name: Andorra
+  dial_code: "+376"
+  currency: EUR
+  capital: Andorra la Vella
+AO:
+  name: Angola
+  dial_code: "+244"
+  currency: AOA
+  capital: Luanda
+AI:
+  name: Anguilla
+  dial_code: "+1264"
+  currency: XCD
+  capital: The Valley
+AQ:
+  name: Antarctica
+  dial_code: "+672"
+AG:
+  name: Antigua and Barbuda
+  dial_code: "+1268"
+  currency: XCD
+  capital: St. John's
+AR:
+  name: Argentina
+  dial_code: "+54"
+  currency: ARS
+  capital: Buenos Aires
+AM:
+  name: Armenia
+  dial_code: "+374"
+  currency: AMD
+  capital: Yerevan
+AW:
+  name: Aruba
+  dial_code: "+297"
+  currency: AWG
+  capital: Oranjestad
+AU:
+  name: Australia
+  dial_code: "+61"
+  currency: AUD
+  capital: Canberra
+AT:
+  name: Austria
+  dial_code: "+43"
+  currency: EUR
+  capital: Vienna
+AZ:
+  name: Azerbaijan
+  dial_code: "+994"
+  currency: AZN
+  capital: Baku
+BS:
+  name: Bahamas
+  dial_code: "+1242"
+  currency: BSD
+  capital: Nassau
+BH:
+  name: Bahrain
+  dial_code: "+973"
+  currency: BHD
+  capital: Manama
+BD:
+  name: Bangladesh
+  dial_code: "+880"
+  currency: BDT
+  capital: Dhaka
+BB:
+  name: Barbados
+  dial_code: "+1246"
+  currency: BBD
+  capital: Bridgetown
+BY:
+  name: Belarus
+  dial_code: "+375"
+  currency: BYR
+  capital: Minsk
+BE:
+  name: Belgium
+  dial_code: "+32"
+  currency: EUR
+  capital: Brussels
+BZ:
+  name: Belize
+  dial_code: "+501"
+  currency: BZD
+  capital: Belmopan
+BJ:
+  name: Benin
+  dial_code: "+229"
+  currency: XOF
+  capital: Porto-Novo
+BM:
+  name: Bermuda
+  dial_code: "+1441"
+  currency: BMD
+  capital: Hamilton
+BT:
+  name: Bhutan
+  dial_code: "+975"
+  currency: BTN
+  capital: Thimphu
+BO:
+  name: Bolivia, Plurinational State of Bolivia
+  dial_code: "+591"
+  currency: BOB
+  capital: Sucre
+BA:
+  name: Bosnia and Herzegovina
+  dial_code: "+387"
+  currency: BAM
+  capital: Sarajevo
+BW:
+  name: Botswana
+  dial_code: "+267"
+  currency: BWP
+  capital: Gaborone
+BV:
+  name: Bouvet Island
+  dial_code: "+55"
+  currency: NOK
+BR:
+  name: Brazil
+  dial_code: "+55"
+  currency: BRL
+  capital: Brasilia
+IO:
+  name: British Indian Ocean Territory
+  dial_code: "+246"
+  currency: USD
+  capital: Diego Garcia
+BN:
+  name: Brunei Darussalam
+  dial_code: "+673"
+  currency: BND
+  capital: Bandar Seri Begawan
+BG:
+  name: Bulgaria
+  dial_code: "+359"
+  currency: BGN
+  capital: Sofia
+BF:
+  name: Burkina Faso
+  dial_code: "+226"
+  currency: XOF
+  capital: Ouagadougou
+BI:
+  name: Burundi
+  dial_code: "+257"
+  currency: BIF
+  capital: Bujumbura
+KH:
+  name: Cambodia
+  dial_code: "+855"
+  currency: KHR
+  capital: Phnom Penh
+CM:
+  name: Cameroon
+  dial_code: "+237"
+  currency: XAF
+  capital: Yaounde
+CA:
+  name: Canada
+  dial_code: "+1"
+  currency: CAD
+  capital: Ottawa
+CV:
+  name: Cape Verde
+  dial_code: "+238"
+  currency: CVE
+  capital: Praia
+KY:
+  name: Cayman Islands
+  dial_code: "+1345"
+  currency: KYD
+  capital: George Town
+CF:
+  name: Central African Republic
+  dial_code: "+236"
+  currency: XAF
+  capital: Bangui
+TD:
+  name: Chad
+  dial_code: "+235"
+  currency: XAF
+  capital: N'Djamena
+CL:
+  name: Chile
+  dial_code: "+56"
+  currency: CLP
+  capital: Santiago
+CN:
+  name: China
+  dial_code: "+86"
+  currency: CNY
+  capital: Beijing
+CX:
+  name: Christmas Island
+  dial_code: "+61"
+  currency: AUD
+  capital: Flying Fish Cove
+CC:
+  name: Cocos (Keeling) Islands
+  dial_code: "+61"
+  currency: AUD
+  capital: West Island
+CO:
+  name: Colombia
+  dial_code: "+57"
+  currency: COP
+  capital: Bogota
+KM:
+  name: Comoros
+  dial_code: "+269"
+  currency: KMF
+  capital: Moroni
+CG:
+  name: Congo
+  dial_code: "+242"
+  currency: XAF
+  capital: Brazzaville
+CD:
+  name: Congo, The Democratic Republic of the
+  dial_code: "+243"
+  currency: CDF
+  capital: Kinshasa
+CK:
+  name: Cook Islands
+  dial_code: "+682"
+  currency: NZD
+  capital: Avarua
+CR:
+  name: Costa Rica
+  dial_code: "+506"
+  currency: CRC
+  capital: San Jose
+CI:
+  name: Ivory Coast
+  dial_code: "+225"
+  currency: XOF
+  capital: Yamoussoukro
+HR:
+  name: Croatia
+  dial_code: "+385"
+  currency: HRK
+  capital: Zagreb
+CU:
+  name: Cuba
+  dial_code: "+53"
+  currency: CUP
+  capital: Havana
+CY:
+  name: Cyprus
+  dial_code: "+357"
+  currency: EUR
+  capital: Nicosia
+CZ:
+  name: Czech Republic
+  dial_code: "+420"
+  currency: CZK
+  capital: Prague
+DK:
+  name: Denmark
+  dial_code: "+45"
+  currency: DKK
+  capital: Copenhagen
+DJ:
+  name: Djibouti
+  dial_code: "+253"
+  currency: DJF
+  capital: Djibouti
+DM:
+  name: Dominica
+  dial_code: "+1767"
+  currency: XCD
+  capital: Roseau
+DO:
+  name: Dominican Republic
+  dial_code: "+1849"
+  currency: DOP
+  capital: Santo Domingo
+EC:
+  name: Ecuador
+  dial_code: "+593"
+  currency: USD
+  capital: Quito
+EG:
+  name: Egypt
+  dial_code: "+20"
+  currency: EGP
+  capital: Cairo
+SV:
+  name: El Salvador
+  dial_code: "+503"
+  currency: USD
+  capital: San Salvador
+GQ:
+  name: Equatorial Guinea
+  dial_code: "+240"
+  currency: XAF
+  capital: Malabo
+ER:
+  name: Eritrea
+  dial_code: "+291"
+  currency: ERN
+  capital: Asmara
+EE:
+  name: Estonia
+  dial_code: "+372"
+  currency: EUR
+  capital: Tallinn
+ET:
+  name: Ethiopia
+  dial_code: "+251"
+  currency: ETB
+  capital: Addis Ababa
+FK:
+  name: Falkland Islands
+  dial_code: "+500"
+  currency: FKP
+  capital: Stanley
+FO:
+  name: Faroe Islands
+  dial_code: "+298"
+  currency: DKK
+  capital: Torshavn
+FJ:
+  name: Fiji
+  dial_code: "+679"
+  currency: FJD
+  capital: Suva
+FI:
+  name: Finland
+  dial_code: "+358"
+  currency: EUR
+  capital: Helsinki
+FR:
+  name: France
+  dial_code: "+33"
+  currency: EUR
+  capital: Paris
+PF:
+  name: French Polynesia
+  dial_code: "+689"
+  currency: XPF
+  capital: Papeete
+TF:
+  name: French Southern and Antarctic Lands
+  dial_code: "+262"
+  currency: EUR
+  capital: Port-aux-Francais
+GA:
+  name: Gabon
+  dial_code: "+241"
+  currency: XAF
+  capital: Libreville
+GM:
+  name: Gambia
+  dial_code: "+220"
+  currency: GMD
+  capital: Banjul
+GE:
+  name: Georgia
+  dial_code: "+995"
+  currency: GEL
+  capital: Tbilisi
+DE:
+  name: Germany
+  dial_code: "+49"
+  currency: EUR
+  capital: Berlin
+GH:
+  name: Ghana
+  dial_code: "+233"
+  currency: GHS
+  capital: Accra
+GI:
+  name: Gibraltar
+  dial_code: "+350"
+  currency: GIP
+  capital: Gibraltar
+EL:
+  name: Greece
+  dial_code: "+30"
+GL:
+  name: Greenland
+  dial_code: "+299"
+  currency: DKK
+  capital: Nuuk
+GD:
+  name: Grenada
+  dial_code: "+1473"
+  currency: XCD
+  capital: St. George's
+GP:
+  name: Guadeloupe
+  dial_code: "+590"
+  currency: EUR
+  capital: Basse-Terre
+GU:
+  name: Guam
+  dial_code: "+1671"
+  currency: USD
+  capital: Hagatna
+GT:
+  name: Guatemala
+  dial_code: "+502"
+  currency: GTQ
+  capital: Guatemala City
+GG:
+  name: Guernsey
+  dial_code: "+44"
+  currency: GBP
+  capital: St Peter Port
+GN:
+  name: Guinea
+  dial_code: "+224"
+  currency: GNF
+  capital: Conakry
+GW:
+  name: Guinea-Bissau
+  dial_code: "+245"
+  currency: XOF
+  capital: Bissau
+GY:
+  name: Guyana
+  dial_code: "+592"
+  currency: GYD
+  capital: Georgetown
+HT:
+  name: Haiti
+  dial_code: "+509"
+  currency: HTG
+  capital: Port-au-Prince
+HM:
+  name: Heard Island and McDonald Islands
+  dial_code: "+672"
+  currency: AUD
+VA:
+  name: Vatican City State (Holy See)
+  dial_code: "+379"
+  currency: EUR
+  capital: Vatican City
+HN:
+  name: Honduras
+  dial_code: "+504"
+  currency: HNL
+  capital: Tegucigalpa
+HK:
+  name: Hong Kong
+  dial_code: "+852"
+  currency: HKD
+  capital: Hong Kong
+HU:
+  name: Hungary
+  dial_code: "+36"
+  currency: HUF
+  capital: Budapest
+IS:
+  name: Iceland
+  dial_code: "+354"
+  currency: ISK
+  capital: Reykjavik
+IN:
+  name: India
+  dial_code: "+91"
+  currency: INR
+  capital: New Delhi
+ID:
+  name: Indonesia
+  dial_code: "+62"
+  currency: IDR
+  capital: Jakarta
+IR:
+  name: Iran, Islamic Republic of
+  dial_code: "+98"
+  currency: IRR
+  capital: Tehran
+IQ:
+  name: Iraq
+  dial_code: "+964"
+  currency: IQD
+  capital: Baghdad
+IE:
+  name: Ireland
+  dial_code: "+353"
+  currency: EUR
+  capital: Dublin
+IM:
+  name: Isle of Man
+  dial_code: "+44"
+  currency: GBP
+  capital: Douglas, Isle of Man
+IL:
+  name: Israel
+  dial_code: "+972"
+  currency: ILS
+  capital: Jerusalem
+IT:
+  name: Italy
+  dial_code: "+39"
+  currency: EUR
+  capital: Rome
+JM:
+  name: Jamaica
+  dial_code: "+1876"
+  currency: JMD
+  capital: Kingston
+JP:
+  name: Japan
+  dial_code: "+81"
+  currency: JPY
+  capital: Tokyo
+JE:
+  name: Jersey
+  dial_code: "+44"
+  currency: GBP
+  capital: Saint Helier
+JO:
+  name: Jordan
+  dial_code: "+962"
+  currency: JOD
+  capital: Amman
+KZ:
+  name: Kazakhstan
+  dial_code: "+7"
+  currency: KZT
+  capital: Astana
+KE:
+  name: Kenya
+  dial_code: "+254"
+  currency: KES
+  capital: Nairobi
+KI:
+  name: Kiribati
+  dial_code: "+686"
+  currency: AUD
+  capital: Tarawa
+KP:
+  name: North Korea
+  dial_code: "+850"
+  currency: KPW
+  capital: Pyongyang
+KR:
+  name: South Korea
+  dial_code: "+82"
+  currency: KRW
+  capital: Seoul
+KW:
+  name: Kuwait
+  dial_code: "+965"
+  currency: KWD
+  capital: Kuwait City
+KG:
+  name: Kyrgyzstan
+  dial_code: "+996"
+  currency: KGS
+  capital: Bishkek
+LA:
+  name: Laos
+  dial_code: "+856"
+  currency: LAK
+  capital: Vientiane
+LV:
+  name: Latvia
+  dial_code: "+371"
+  currency: EUR
+  capital: Riga
+LB:
+  name: Lebanon
+  dial_code: "+961"
+  currency: LBP
+  capital: Beirut
+LS:
+  name: Lesotho
+  dial_code: "+266"
+  currency: LSL
+  capital: Maseru
+LR:
+  name: Liberia
+  dial_code: "+231"
+  currency: LRD
+  capital: Monrovia
+LY:
+  name: Libyan Arab Jamahiriya
+  dial_code: "+218"
+  currency: LYD
+  capital: Tripolis
+LI:
+  name: Liechtenstein
+  dial_code: "+423"
+  currency: CHF
+  capital: Vaduz
+LT:
+  name: Lithuania
+  dial_code: "+370"
+  currency: LTL
+  capital: Vilnius
+LU:
+  name: Luxembourg
+  dial_code: "+352"
+  currency: EUR
+  capital: Luxembourg
+MO:
+  name: Macau
+  dial_code: "+853"
+  currency: MOP
+  capital: Macao
+MK:
+  name: Macedonia, The Former Yugoslav Republic of
+  dial_code: "+389"
+  currency: MKD
+  capital: Skopje
+MG:
+  name: Madagascar
+  dial_code: "+261"
+  currency: MGA
+  capital: Antananarivo
+MW:
+  name: Malawi
+  dial_code: "+265"
+  currency: MWK
+  capital: Lilongwe
+MY:
+  name: Malaysia
+  dial_code: "+60"
+  currency: MYR
+  capital: Kuala Lumpur
+MV:
+  name: Maldives
+  dial_code: "+960"
+  currency: MVR
+  capital: Male
+ML:
+  name: Mali
+  dial_code: "+223"
+  currency: XOF
+  capital: Bamako
+MT:
+  name: Malta
+  dial_code: "+356"
+  currency: EUR
+  capital: Valletta
+MH:
+  name: Marshall Islands
+  dial_code: "+692"
+  currency: USD
+  capital: Majuro
+MQ:
+  name: Martinique
+  dial_code: "+596"
+  currency: EUR
+  capital: Fort-de-France
+MR:
+  name: Mauritania
+  dial_code: "+222"
+  currency: MRO
+  capital: Nouakchott
+MU:
+  name: Mauritius
+  dial_code: "+230"
+  currency: MUR
+  capital: Port Louis
+YT:
+  name: Mayotte
+  dial_code: "+262"
+  currency: EUR
+  capital: Mamoudzou
+MX:
+  name: Mexico
+  dial_code: "+52"
+  currency: MXN
+  capital: Mexico City
+FM:
+  name: Micronesia, Federated States of
+  dial_code: "+691"
+  currency: USD
+  capital: Palikir
+MD:
+  name: Moldova, Republic of
+  dial_code: "+373"
+  currency: MDL
+  capital: Chisinau
+MC:
+  name: Monaco
+  dial_code: "+377"
+  currency: EUR
+  capital: Monaco
+MN:
+  name: Mongolia
+  dial_code: "+976"
+  currency: MNT
+  capital: Ulan Bator
+ME:
+  name: Montenegro
+  dial_code: "+382"
+  currency: EUR
+  capital: Podgorica
+MS:
+  name: Montserrat
+  dial_code: "+1664"
+  currency: XCD
+  capital: Plymouth
+MA:
+  name: Morocco
+  dial_code: "+212"
+  currency: MAD
+  capital: Rabat
+MZ:
+  name: Mozambique
+  dial_code: "+258"
+  currency: MZN
+  capital: Maputo
+MM:
+  name: Myanmar
+  dial_code: "+95"
+  currency: MMK
+  capital: Nay Pyi Taw
+NA:
+  name: Namibia
+  dial_code: "+264"
+  currency: NAD
+  capital: Windhoek
+NR:
+  name: Nauru
+  dial_code: "+674"
+  currency: AUD
+  capital: Yaren
+NP:
+  name: Nepal
+  dial_code: "+977"
+  currency: NPR
+  capital: Kathmandu
+NL:
+  name: Netherlands
+  dial_code: "+31"
+  currency: EUR
+  capital: Amsterdam
+AN:
+  name: Netherlands Antilles
+  dial_code: "+599"
+NC:
+  name: New Caledonia
+  dial_code: "+687"
+  currency: XPF
+  capital: Noumea
+NZ:
+  name: New Zealand
+  dial_code: "+64"
+  currency: NZD
+  capital: Wellington
+NI:
+  name: Nicaragua
+  dial_code: "+505"
+  currency: NIO
+  capital: Managua
+NE:
+  name: Niger
+  dial_code: "+227"
+  currency: XOF
+  capital: Niamey
+NG:
+  name: Nigeria
+  dial_code: "+234"
+  currency: NGN
+  capital: Abuja
+NU:
+  name: Niue
+  dial_code: "+683"
+  currency: NZD
+  capital: Alofi
+NF:
+  name: Norfolk Island
+  dial_code: "+672"
+  currency: AUD
+  capital: Kingston
+MP:
+  name: Northern Mariana Islands
+  dial_code: "+1670"
+  currency: USD
+  capital: Saipan
+'NO':
+  name: Norway
+  dial_code: "+47"
+  currency: NOK
+  capital: Oslo
+OM:
+  name: Oman
+  dial_code: "+968"
+  currency: OMR
+  capital: Muscat
+PK:
+  name: Pakistan
+  dial_code: "+92"
+  currency: PKR
+  capital: Islamabad
+PW:
+  name: Palau
+  dial_code: "+680"
+  currency: USD
+  capital: Melekeok
+PS:
+  name: Palestinian Territory, Occupied
+  dial_code: "+970"
+  currency: ILS
+  capital: East Jerusalem
+PA:
+  name: Panama
+  dial_code: "+507"
+  currency: PAB
+  capital: Panama City
+PG:
+  name: Papua New Guinea
+  dial_code: "+675"
+  currency: PGK
+  capital: Port Moresby
+PY:
+  name: Paraguay
+  dial_code: "+595"
+  currency: PYG
+  capital: Asuncion
+PE:
+  name: Peru
+  dial_code: "+51"
+  currency: PEN
+  capital: Lima
+PH:
+  name: Philippines
+  dial_code: "+63"
+  currency: PHP
+  capital: Manila
+PN:
+  name: Pitcairn
+  dial_code: "+870"
+  currency: NZD
+  capital: Adamstown
+PL:
+  name: Poland
+  dial_code: "+48"
+  currency: PLN
+  capital: Warsaw
+PT:
+  name: Portugal
+  dial_code: "+351"
+  currency: EUR
+  capital: Lisbon
+PR:
+  name: Puerto Rico
+  dial_code: "+1939"
+  currency: USD
+  capital: San Juan
+QA:
+  name: Qatar
+  dial_code: "+974"
+  currency: QAR
+  capital: Doha
+RE:
+  name: Réunion
+  dial_code: "+262"
+  currency: EUR
+  capital: Saint-Denis
+RO:
+  name: Romania
+  dial_code: "+40"
+  currency: RON
+  capital: Bucharest
+RU:
+  name: Russia
+  dial_code: "+7"
+  currency: RUB
+  capital: Moscow
+RW:
+  name: Rwanda
+  dial_code: "+250"
+  currency: RWF
+  capital: Kigali
+SH:
+  name: Saint Helena, Ascension and Tristan Da Cunha
+  dial_code: "+290"
+  currency: SHP
+  capital: Jamestown
+KN:
+  name: Saint Kitts and Nevis
+  dial_code: "+1869"
+  currency: XCD
+  capital: Basseterre
+LC:
+  name: Saint Lucia
+  dial_code: "+1758"
+  currency: XCD
+  capital: Castries
+PM:
+  name: Saint Pierre and Miquelon
+  dial_code: "+508"
+  currency: EUR
+  capital: Saint-Pierre
+VC:
+  name: Saint Vincent and the Grenadines
+  dial_code: "+1784"
+  currency: XCD
+  capital: Kingstown
+WS:
+  name: Samoa
+  dial_code: "+685"
+  currency: WST
+  capital: Apia
+SM:
+  name: San Marino
+  dial_code: "+378"
+  currency: EUR
+  capital: San Marino
+ST:
+  name: Sao Tome and Principe
+  dial_code: "+239"
+  currency: STD
+  capital: Sao Tome
+SA:
+  name: Saudi Arabia
+  dial_code: "+966"
+  currency: SAR
+  capital: Riyadh
+SN:
+  name: Senegal
+  dial_code: "+221"
+  currency: XOF
+  capital: Dakar
+RS:
+  name: Serbia
+  dial_code: "+381"
+  currency: RSD
+  capital: Belgrade
+SC:
+  name: Seychelles
+  dial_code: "+248"
+  currency: SCR
+  capital: Victoria
+SL:
+  name: Sierra Leone
+  dial_code: "+232"
+  currency: SLL
+  capital: Freetown
+SG:
+  name: Singapore
+  dial_code: "+65"
+  currency: SGD
+  capital: Singapur
+SK:
+  name: Slovakia
+  dial_code: "+421"
+  currency: EUR
+  capital: Bratislava
+SI:
+  name: Slovenia
+  dial_code: "+386"
+  currency: EUR
+  capital: Ljubljana
+SB:
+  name: Solomon Islands
+  dial_code: "+677"
+  currency: SBD
+  capital: Honiara
+SO:
+  name: Somalia
+  dial_code: "+252"
+  currency: SOS
+  capital: Mogadishu
+ZA:
+  name: South Africa
+  dial_code: "+27"
+  currency: ZAR
+  capital: Pretoria
+GS:
+  name: South Georgia and the South Sandwich Islands
+  dial_code: "+500"
+  currency: GBP
+  capital: Grytviken
+ES:
+  name: Spain
+  dial_code: "+34"
+  currency: EUR
+  capital: Madrid
+LK:
+  name: Sri Lanka
+  dial_code: "+94"
+  currency: LKR
+  capital: Colombo
+SD:
+  name: Sudan
+  dial_code: "+249"
+  currency: SDG
+  capital: Khartoum
+SR:
+  name: Suriname
+  dial_code: "+597"
+  currency: SRD
+  capital: Paramaribo
+SJ:
+  name: Svalbard and Jan Mayen
+  dial_code: "+47"
+  currency: NOK
+  capital: Longyearbyen
+SZ:
+  name: Swaziland
+  dial_code: "+268"
+  currency: SZL
+  capital: Mbabane
+SE:
+  name: Sweden
+  dial_code: "+46"
+  currency: SEK
+  capital: Stockholm
+CH:
+  name: Switzerland
+  dial_code: "+41"
+  currency: CHF
+  capital: Berne
+SY:
+  name: Syria
+  dial_code: "+963"
+  currency: SYP
+  capital: Damascus
+TW:
+  name: Taiwan
+  dial_code: "+886"
+  currency: TWD
+  capital: Taipei
+TJ:
+  name: Tajikistan
+  dial_code: "+992"
+  currency: TJS
+  capital: Dushanbe
+TZ:
+  name: Tanzania, United Republic of
+  dial_code: "+255"
+  currency: TZS
+  capital: Dodoma
+TH:
+  name: Thailand
+  dial_code: "+66"
+  currency: THB
+  capital: Bangkok
+TL:
+  name: Timor-Leste
+  dial_code: "+670"
+  currency: USD
+  capital: Dili
+TG:
+  name: Togo
+  dial_code: "+228"
+  currency: XOF
+  capital: Lome
+TK:
+  name: Tokelau
+  dial_code: "+690"
+  currency: NZD
+TO:
+  name: Tonga
+  dial_code: "+676"
+  currency: TOP
+  capital: Nuku'alofa
+TT:
+  name: Trinidad and Tobago
+  dial_code: "+1868"
+  currency: TTD
+  capital: Port of Spain
+TN:
+  name: Tunisia
+  dial_code: "+216"
+  currency: TND
+  capital: Tunis
+TR:
+  name: Turkey
+  dial_code: "+90"
+  currency: TRY
+  capital: Ankara
+TM:
+  name: Turkmenistan
+  dial_code: "+993"
+  currency: TMT
+  capital: Ashgabat
+TC:
+  name: Turks and Caicos Islands
+  dial_code: "+1649"
+  currency: USD
+  capital: Cockburn Town
+TV:
+  name: Tuvalu
+  dial_code: "+688"
+  currency: AUD
+  capital: Funafuti
+UG:
+  name: Uganda
+  dial_code: "+256"
+  currency: UGX
+  capital: Kampala
+UA:
+  name: Ukraine
+  dial_code: "+380"
+  currency: UAH
+  capital: Kiev
+AE:
+  name: United Arab Emirates
+  dial_code: "+971"
+  currency: AED
+  capital: Abu Dhabi
+GB:
+  name: United Kingdom
+  dial_code: "+44"
+  currency: GBP
+  capital: London
+US:
+  name: United States
+  dial_code: "+1"
+  currency: USD
+  capital: Washington
+UM:
+  name: United States Minor Outlying Islands
+  dial_code: "+1581"
+  currency: USD
+UY:
+  name: Uruguay
+  dial_code: "+598"
+  currency: UYU
+  capital: Montevideo
+UZ:
+  name: Uzbekistan
+  dial_code: "+998"
+  currency: UZS
+  capital: Tashkent
+VU:
+  name: Vanuatu
+  dial_code: "+678"
+  currency: VUV
+  capital: Port Vila
+VE:
+  name: Venezuela, Bolivarian Republic of
+  dial_code: "+58"
+  currency: VEF
+  capital: Caracas
+VN:
+  name: Vietnam
+  dial_code: "+84"
+  currency: VND
+  capital: Hanoi
+VG:
+  name: Virgin Islands, British
+  dial_code: "+1284"
+  currency: USD
+  capital: Road Town
+VI:
+  name: Virgin Islands, U.S.
+  dial_code: "+1340"
+  currency: USD
+  capital: Charlotte Amalie
+WF:
+  name: Wallis and Futuna
+  dial_code: "+681"
+  currency: XPF
+  capital: Mata Utu
+EH:
+  name: Western Sahara
+  dial_code: "+732"
+  currency: MAD
+  capital: El-Aaiun
+YE:
+  name: Yemen
+  dial_code: "+967"
+  currency: YER
+  capital: Sanaa
+ZM:
+  name: Zambia
+  dial_code: "+260"
+  currency: ZMK
+  capital: Lusaka
+ZW:
+  name: Zimbabwe
+  dial_code: "+263"
+  currency: ZWL
+  capital: Harare
+BL:
+  name: Saint Barthelemy
+  currency: EUR
+  capital: Gustavia
+BQ:
+  name: Bonaire, Saint Eustatius and Saba
+  currency: USD
+GR:
+  name: Greece
+  currency: EUR
+  capital: Athens
+MF:
+  name: Saint Martin
+  currency: EUR
+  capital: Marigot
+XK:
+  name: Kosovo
+  currency: EUR
+  capital: Pristina
+CW:
+  name: Curacao
+  currency: ANG
+  capital: Willemstad
+SX:
+  name: Sint Maarten
+  currency: ANG
+  capital: Philipsburg
+SS:
+  name: South Sudan
+  currency: SSP
+  capital: Juba
+AX:
+  name: Aland Islands
+  currency: EUR
+  capital: Mariehamn
