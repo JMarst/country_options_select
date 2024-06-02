@@ -11,6 +11,10 @@ Gem::Specification.new do |s|
   s.test_files = Dir['test/**/*']
   s.require_path = 'lib'
   s.summary = 'Capital, Currency and Dial Code form select helpers using CountriesSpace.now API'
+  s.metadata = {
+    "homepage_uri" => s.homepage,
+    "source_code_uri" => s.homepage
+  }
   s.add_runtime_dependency 'rails', '>= 6.1'
   s.add_development_dependency 'rake'
   s.license = 'MIT'
