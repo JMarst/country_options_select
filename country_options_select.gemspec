@@ -15,7 +15,8 @@ Gem::Specification.new do |s|
     "homepage_uri" => s.homepage,
     "source_code_uri" => s.homepage
   }
-  s.add_runtime_dependency 'rails', '>= 6.1'
+  s.add_runtime_dependency 'rails', '>= 7.1'
   s.add_development_dependency 'rake'
+  s.required_ruby_version = '>= 3.1.0'
   s.license = 'MIT'
 end
